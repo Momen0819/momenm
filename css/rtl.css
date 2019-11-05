@@ -1,0 +1,130 @@
+.navbar-nav ul.dropdown-menu i.fa-caret-right {
+    float: left;
+    -webkit-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+}
+.side-nav li a.quick-book-open i {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.find-room span.input-group-addon {
+    padding-right: 10px;
+    padding-left: 0px;
+}
+
+.find-room .input-group.date .fa.fa-caret-down {
+    left: 10px;
+    right: auto;
+}
+
+.custom-btn-arrows {
+    direction: ltr;
+}
+
+a.available-room-block>span {
+    right: 20px;
+    left: auto;
+}
+
+.latest-offers-caption {
+    left: auto;
+    right: 20px;
+}
+
+ul.latest-offers-list {
+    left: auto;
+    right: 20px;
+}
+
+.latest-offers-note {
+    right: auto;
+    left: 20px;
+}
+
+.our-events-caption {
+    left: auto;
+    right: 20px;
+}
+
+.our-events-caption p i {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.our-testimonials-block span {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+ul.footer-contacts-list li span i {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.subscribe-form button {
+    right: auto;
+    left: 0px;
+    border-radius: 200px 0px 0px 200px;
+}
+
+.subscribe-form input {
+    border-radius: 0px 200px 200px 0px;
+}
+
+ul.copyrights-links li i {
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+ul.copyrights-links li {
+    margin-left: 30px;
+    margin-right: auto;
+}
+
+.navbar-nav li>ul.dropdown-menu li>ul.dropdown-menu {
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+a.custom-btn.book-now {
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.custom-btn span>i {
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+.simform .number {
+    right: auto;
+    left: 0px;
+}
+
+.quick-booking button {
+    float: left;
+    left: 20px;
+    right: auto;
+}
+
+.res-next::after {
+    left: -30px;
+    width: 100%;
+    content: "\f060";
+}
+
+.simform-inner {
+    text-align: right;
+}
+
+.quick-booking h3 {
+    text-align: right;
+}
+
+.datepicker.dropdown-menu {
+    max-width: 500px;
+}
+
+.datepicker {
+    right: auto
+}
